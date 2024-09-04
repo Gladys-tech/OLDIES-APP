@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "react-native1",
-    "slug": "react-native1",
+    "name": "oldies",
+    "slug": "oldies",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "oldies",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
