@@ -8,7 +8,7 @@ const App = () => {
     <View style= {styles.container}>
       <Text>Oldies</Text>
       <StatusBar style="auto"/>
-      <Link href="/profile" style={{color:'blue'}}>Go to Profile</Link>
+      <Link href="/home" style={{color:'blue'}}>Go to Home</Link>
     </View>
   )
 }
